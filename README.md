@@ -3,9 +3,8 @@
 🙋 Sou o Erick, tenho 22 anos, sou desenvolvedor fullstack pleno Web e mobile.
 Atualmente curso Análise e Desenvolvimento de Sistemas.
 
-[
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='20px' />
-          ](www.linkedin.com/in/erick-nagoski)
+<a href="www.linkedin.com/in/erick-nagoski"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='20px' /></a>
+          
 
 ### Formação
 🎓 Técnico em Informática Integrado ao Ensino Médio 2018 - 2021 <br/>
