@@ -1,6 +1,6 @@
 ## Bem vindo ao meu portifólio! 👋
 
-![Erick Nagoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickNagoski&show_icons=true&theme=radical)
+![Erick Nagoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickNagoski&show_icons=true&theme=dark&count_private=true)
 
 🙋 Sou o Erick, tenho 22 anos, sou desenvolvedor fullstack pleno Web e mobile.
 Atualmente curso Análise e Desenvolvimento de Sistemas.
@@ -29,7 +29,7 @@ Desenvolvedor de Sistemas Pleno - Bigfer. (2024 - Atual)<br/>
 
 ### Tecnologias
 
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" />
@@ -43,6 +43,10 @@ Desenvolvedor de Sistemas Pleno - Bigfer. (2024 - Atual)<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"/>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNagoski&layout=compact&theme=radical&count_private=true)
+
           
           
           
