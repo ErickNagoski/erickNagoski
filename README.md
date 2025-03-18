@@ -24,8 +24,10 @@ Atualmente curso Análise e Desenvolvimento de Sistemas.
 #### Desenvolvedor de Sistemas Júnior - Bigfer. (2022 - 2023)<br/>
    - Desenvolvimento Web frontend e fullstack mobile. Desenvolvimento de aplicações para uso interno da empresa.
 
-#### Desenvolvedor de Sistemas Pleno - Bigfer. (2024 - Atual)<br/>
+#### Desenvolvedor de Sistemas Pleno - Bigfer. (2024 - 2025)<br/>
   -  Desenvolvimento fullstack web e mobile, sendo responsável principal pelo front-end, atuando com análises de processos, gestão de projetos, desenvolvimento, qualidade, treinamento e suporte.
+
+#### Desenvolvedor de Fullstack Pleno - Infinitybase. (2025 - Atual)<br/>
 
 ### Tecnologias
 
